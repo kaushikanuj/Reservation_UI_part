@@ -1,0 +1,9 @@
+.sname{
+    margin-left: 80px;
+    transition: all 0.2s ease-in-out;
+}
+
+.dname{
+    margin-left: 270px;
+    transition: all 0.2s ease-in-out;
+}
